@@ -21,7 +21,7 @@ To run the Quantum Computer Simulator on your local machine, follow these steps:
    ```
 3. Clone the repository:
    ```bash
-   git clone https://github.com/Akashram28/Quantum-Computer-Simulator.git
+   git clone https://github.com/rakesh5666/Quantum-Computer-Simulator.git
    ```
 4. Navigate to the project directory:
    ```bash
