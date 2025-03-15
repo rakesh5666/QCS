@@ -42,22 +42,3 @@ To run the Quantum Computer Simulator on your local machine, follow these steps:
   
 ## Screenshots
 
-![Screenshot 1](screenshots/home.png)
-
-*Home Screen*
-
-![Screenshot 2](screenshots/blank.png)
-
-*Circuit Maker*
-
-![Screenshot 3](screenshots/entanglement_2.png)
-
-*Quantum Entanglement Circuit with 2 qubits*
-
-![Screenshot 2](screenshots/entanglement_3.png)
-
-*Quantum Entanglement between 2 qubits in a 3 qubit circuit*
-
-![Screenshot 2](screenshots/h-h.png)
-
-*H-H Cirucuit*
